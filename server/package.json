@@ -1,0 +1,28 @@
+{
+  "name": "todoproject",
+  "version": "1.0.0",
+  "description": "steps for jwtbacked",
+  "main": "jwt.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ANJALI7416/jwtbacked.git"
+  },
+  "keywords": [
+    "jsverbtoken",
+    "git",
+    "hub"
+  ],
+  "author": "anjali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ANJALI7416/jwtbacked/issues"
+  },
+  "homepage": "https://github.com/ANJALI7416/jwtbacked#readme",
+  "dependencies": {
+    "jsonwebtoken": "^9.0.2"
+  }
+}
